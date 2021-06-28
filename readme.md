@@ -4,4 +4,4 @@
 
 A full featured Brick Breaker Game in Js.
 
-[Try it live](https://dhrumil0723.github.io/brick-breaker/)
+[Try it live](https://panthchristian.github.io/brick-breaker-js/)
